@@ -1,0 +1,23 @@
+{
+  "name": "whatif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhy1050/whatIf.git"
+  },
+  "author": "Hanying Dong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhy1050/whatIf/issues"
+  },
+  "homepage": "https://github.com/dhy1050/whatIf#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
